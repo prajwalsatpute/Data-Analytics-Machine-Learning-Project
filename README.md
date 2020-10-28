@@ -1,6 +1,10 @@
 # Data Analytics and Machine Learning Project
 
+
 **Results of algorithms used in project which shows whole classification report.**
+
+**NOTE : For complete details of project check the Project Report.**
+
 
 ## Logistic Regression 
 ![Screenshot (158)](https://user-images.githubusercontent.com/69674868/97395021-05a50400-190a-11eb-9a12-b75e34b9862e.png)
